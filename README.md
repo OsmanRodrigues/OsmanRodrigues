@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 </p>
 
 <h4 align="center">
-  Oi, eu sou o Osman Rodrigues! 👋
+  Oi, eu sou o Osman Rodrigues!
 </h4>
 
+<h4 align="center">
+  Vivo em <b>Recife</b>, <b>Pernambuco</b>, <b>Brasil</b>
+</h4>
