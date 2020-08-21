@@ -1,4 +1,4 @@
-### E aí!👋:grin:
+### Olá! :grin:
 
 <!--
 **OsmanRodrigues/OsmanRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -79,14 +79,15 @@ Here are some ideas to get you started:
 <h4 align="center">
   Oi, eu sou o Osman Rodrigues! 👋
 </h4>
+
+<p align="center">
+  📌 :house: :sunrise: Vivo em <b>Recife</b>, <b>Pernambuco</b>, <b>Brasil</b>💼:computer: :iphone: :floppy_disk: Desenvolvedor Web Fullstack
+</p>
 <!--
 <p align="center">
-  📌 Living in <b>Avaré</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp; 💼 FullStack Software Engineer at <b>Datasmart</b>
+  📚 Graduate in <b>Analysis and Systems Development</b>  🎓 Postgraduate in <b>Web Application Development in Java</b>
 </p>
 <p align="center">
-  📚 Graduate in <b>Analysis and Systems Development</b> &nbsp; 🎓 Postgraduate in <b>Web Application Development in Java</b> &nbsp;
-</p>
-<p align="center">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🚀 Full Stack Student at <b>Rocketseat</b> &nbsp; 🎯 Focused in <b>Node.JS</b>, <b>ReactJS</b> and <b>React Native</b>
+   🚀Full Stack Student at <b>Rocketseat</b> 🎯 Focused in <b>Node.JS</b>, <b>ReactJS</b> and <b>React Native</b>
 </p>
 -->
