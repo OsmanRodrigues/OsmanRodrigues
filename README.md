@@ -24,10 +24,31 @@ Here are some ideas to get you started:
   JavaScript | Typescript | HMTL | CSS | Node.js | React | SQL | AWS | Python | Jupyter Notebook_
 </p>
 
+<p align="center">
+  <a align="center" href='https://www.linkedin.com/in/osman-rodrigues/'>
+    <img align="center" src='https://icons.iconarchive.com/icons/danleech/simple/24/linkedin-icon.png'>
+  </a>
+  <a align="center" href='https://medium.com/@osmancesar.mr'>
+    <img align="center" src='https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png' width='28' heigth='28'>
+  </a>
+<p/>
+
 <h4 align="center">
-  Oi, eu sou o Osman Rodrigues!
+  :v: Oi, eu sou o Osman Rodrigues! 
 </h4>
 
 <h4 align="center">
-  Vivo em <b>Recife</b>, <b>Pernambuco</b>, <b>Brasil</b>
+  :house: :sunrise: Vivo em <b>Recife</b>, <b>Pernambuco</b>, <b>Brasil.</b>
+</h4>
+
+<h4 align="center">
+  :computer: :iphone: :minidisc: Desenvolvedor Web Fullstack_
+</h4>
+
+<h4 align="center">
+  :purple_heart: :game_die: Entusiasta de UX Design e Gamificação.
+</h4>
+
+<h4 align="center">
+  :briefcase: :raising_hand: Estou disponível para trabalho imediato!
 </h4>
