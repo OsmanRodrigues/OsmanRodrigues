@@ -1,4 +1,4 @@
-### Hi there👋:grin:
+### E aí!👋:grin:
 
 <!--
 **OsmanRodrigues/OsmanRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 </p>
 -->
 <h4 align="center">
-  Oi, eu sou o Osman! 👋
+  Oi, eu sou o Osman Rodrigues! 👋
 </h4>
 <!--
 <p align="center">
