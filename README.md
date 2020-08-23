@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </h4>
 
 <h4 align="center">
-  :computer: :iphone: :minidisc: Desenvolvedor Web Fullstack_
+  :computer: :iphone: :minidisc: Desenvolvedor Web Full Stack_
 </h4>
 
 <h4 align="center">
