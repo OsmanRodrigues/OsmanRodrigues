@@ -46,7 +46,3 @@ Here are some ideas to get you started:
 <h4 align="center">
   :purple_heart: :game_die: Entusiasta de UX Design e Gamificação.
 </h4>
-
-<h4 align="center">
-  :briefcase: :raising_hand: Estou disponível para trabalho imediato!
-</h4>
