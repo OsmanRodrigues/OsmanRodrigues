@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 </h4>
 
 <h4 align="center">
-  :house: :sunrise: Vivo em <b>Recife</b>, <b>Pernambuco</b>, <b>Brasil.</b>
+  :house: :sunrise: Vivo em <b>São Paulo capital</b>, <b>Brasil.</b>
 </h4>
 
 <h4 align="center">
-  :computer: :iphone: :minidisc: Desenvolvedor Web Full Stack_
+  :computer: :iphone: :minidisc: Engenheiro de Software Jr na Taqtile_
 </h4>
 
 <h4 align="center">
