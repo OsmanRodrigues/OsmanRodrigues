@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55052153/90836936-00827200-e327-11ea-87ae-146d036e4bbf.png" border="black" width="275"
+  <img src="https://raw.githubusercontent.com/OsmanRodrigues/OsmanRodrigues/master/assets/or-new-logo.png" border="black" width="275"
   alt="OR logo" />
 </p>
 
