@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  JavaScript | Typescript | HMTL | CSS | Node.js | React | SQL | AWS | Python | Jupyter Notebook_
+  JavaScript | Typescript | HMTL | CSS | Node.js | React | SQL | AWS | Python
 </p>
 
 <p align="center">
@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 </h4>
 
 <h4 align="center">
-  :house: :sunrise: Vivo em <b>São Paulo capital</b>, <b>Brasil.</b>
+  :house: :sunrise: Vivo em <b>Recife - PE</b>, <b>Brasil.</b>
 </h4>
 
 <h4 align="center">
-  :computer: :iphone: :minidisc: Engenheiro de Software Jr na Taqtile_
+  :computer: :iphone: :minidisc: Analista de Software Pl na Accenture_
 </h4>
 
 <h4 align="center">
