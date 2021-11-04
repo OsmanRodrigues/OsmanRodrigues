@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </h4>
 
 <h4 align="center">
-  :computer: :iphone: :minidisc: Desenvolvedor Fullstack Node js Pl na Recrut.ai_
+  :computer: :iphone: :minidisc: Desenvolvedor Full Stack Node js Pl na Recrut.ai_
 </h4>
 
 <h4 align="center">
