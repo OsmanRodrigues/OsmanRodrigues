@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
+  <a align="center" href='https://osmanrodrigues.vercel.app/'>
+    <img align="center" src='https://raw.githubusercontent.com/OsmanRodrigues/OsmanRodrigues/master/assets/or-new-logo.png' width='28' heigth='28'>
+  </a>
   <a align="center" href='https://www.linkedin.com/in/osman-rodrigues/'>
     <img align="center" src='https://icons.iconarchive.com/icons/danleech/simple/24/linkedin-icon.png'>
   </a>
