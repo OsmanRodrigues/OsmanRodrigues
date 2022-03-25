@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 <p/>
 
 <h4 align="center">
-  :v: Oi, eu sou o Osman Rodrigues! 
+  :v: Hi, I'm Osman Rodrigues! 
 </h4>
 
 <h4 align="center">
-  :house: :sunrise: Vivo em <b>Recife - PE</b>, <b>Brasil.</b>
+  :house: :sunrise: Live in <b>Recife - PE</b>, <b>Brasil.</b>
 </h4>
 
 <h4 align="center">
@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 </h4>
 
 <h4 align="center">
-  :purple_heart: :game_die: Entusiasta de UX Design e Gamificação.
+  :purple_heart: :game_die: UX Design and Gamification enthusiast.
 </h4>
