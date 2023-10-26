@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </h4>
 
 <h4 align="center">
-  :house: :sunrise: Live in <b>Recife - PE</b>, <b>Brasil.</b>
+  :house: :sunrise: Lives in <b>Recife - PE</b>, <b>Brasil.</b>
 </h4>
 
 <h4 align="center">
