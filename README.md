@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </h4>
 
 <h4 align="center">
-  :computer: :iphone: :minidisc: Middle full stack Node.js developer at Locus Custom Software
+  :computer: :iphone: :minidisc: Full Stack Developer
 </h4>
 
 <h4 align="center">
